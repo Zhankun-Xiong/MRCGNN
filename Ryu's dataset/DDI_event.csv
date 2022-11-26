@@ -1,0 +1,86 @@
+0,DRUG can cause a decrease in the absorption of DRUG resulting in a reduced serum concentration and potentially a decrease in efficacy.
+1,DRUG can cause an increase in the absorption of DRUG resulting in an increased serum concentration and potentially a worsening of adverse effects.
+2,The absorption of DRUG can be decreased when combined with DRUG.
+3,The bioavailability of DRUG can be decreased when combined with DRUG.
+4,The bioavailability of DRUG can be increased when combined with DRUG.
+5,The metabolism of DRUG can be decreased when combined with DRUG.
+6,The metabolism of DRUG can be increased when combined with DRUG.
+7,The protein binding of DRUG can be decreased when combined with DRUG.
+8,The serum concentration of DRUG can be decreased when it is combined with DRUG.
+9,The serum concentration of DRUG can be increased when it is combined with DRUG.
+10,The serum concentration of the active metabolites of DRUG can be increased when DRUG is used in combination with DRUG.
+11,The serum concentration of the active metabolites of DRUG can be reduced when DRUG is used in combination with DRUG resulting in a loss in efficacy.
+12,The therapeutic efficacy of DRUG can be decreased when used in combination with DRUG.
+13,The therapeutic efficacy of DRUG can be increased when used in combination with DRUG.
+14,DRUG may decrease the excretion rate of DRUG which could result in a higher serum level.
+15,DRUG may increase the excretion rate of DRUG which could result in a lower serum level and potentially a reduction in efficacy.
+16,DRUG may decrease the cardiotoxic activities of DRUG.
+17,DRUG may increase the cardiotoxic activities of DRUG.
+18,DRUG may increase the central neurotoxic activities of DRUG.
+19,DRUG may increase the hepatotoxic activities of DRUG.
+20,DRUG may increase the nephrotoxic activities of DRUG.
+21,DRUG may increase the neurotoxic activities of DRUG.
+22,DRUG may increase the ototoxic activities of DRUG.
+23,DRUG may decrease effectiveness of DRUG as a diagnostic agent.
+24,The risk of a hypersensitivity reaction to DRUG is increased when it is combined with DRUG.
+25,The risk or severity of adverse effects can be increased when DRUG is combined with DRUG.
+26,The risk or severity of bleeding can be increased when DRUG is combined with DRUG.
+27,The risk or severity of heart failure can be increased when DRUG is combined with DRUG.
+28,The risk or severity of hyperkalemia can be increased when DRUG is combined with DRUG.
+29,The risk or severity of hypertension can be increased when DRUG is combined with DRUG.
+30,The risk or severity of hypotension can be increased when DRUG is combined with DRUG.
+31,The risk or severity of QTc prolongation can be increased when DRUG is combined with DRUG.
+32,DRUG may decrease the analgesic activities of DRUG.
+33,DRUG may decrease the anticoagulant activities of DRUG.
+34,DRUG may decrease the antihypertensive activities of DRUG.
+35,DRUG may decrease the antiplatelet activities of DRUG.
+36,DRUG may decrease the bronchodilatory activities of DRUG.
+37,DRUG may decrease the diuretic activities of DRUG.
+38,DRUG may decrease the neuromuscular blocking activities of DRUG.
+39,DRUG may decrease the sedative activities of DRUG.
+40,DRUG may decrease the stimulatory activities of DRUG.
+41,DRUG may decrease the vasoconstricting activities of DRUG.
+42,DRUG may increase the adverse neuromuscular activities of DRUG.
+43,DRUG may increase the analgesic activities of DRUG.
+44,DRUG may increase the anticholinergic activities of DRUG.
+45,DRUG may increase the anticoagulant activities of DRUG.
+46,DRUG may increase the antihypertensive activities of DRUG.
+47,DRUG may increase the antiplatelet activities of DRUG.
+48,DRUG may increase the antipsychotic activities of DRUG.
+49,DRUG may increase the arrhythmogenic activities of DRUG.
+50,DRUG may increase the atrioventricular blocking (AV block) activities of DRUG.
+51,DRUG may increase the bradycardic activities of DRUG.
+52,DRUG may increase the bronchoconstrictory activities of DRUG.
+53,DRUG may increase the central nervous system depressant (CNS depressant) activities of DRUG.
+54,DRUG may increase the central nervous system depressant (CNS depressant) and hypertensive activities of DRUG.
+55,DRUG may increase the constipating activities of DRUG.
+56,DRUG may increase the dermatologic adverse activities of DRUG.
+57,DRUG may increase the fluid retaining activities of DRUG.
+58,DRUG may increase the hypercalcemic activities of DRUG.
+59,DRUG may increase the hyperglycemic activities of DRUG.
+60,DRUG may increase the hyperkalemic activities of DRUG.
+61,DRUG may increase the hypertensive activities of DRUG.
+62,DRUG may increase the hypocalcemic activities of DRUG.
+63,DRUG may increase the hypoglycemic activities of DRUG.
+64,DRUG may increase the hypokalemic activities of DRUG.
+65,DRUG may increase the hyponatremic activities of DRUG.
+66,DRUG may increase the hypotensive activities of DRUG.
+67,DRUG may increase the hypotensive and central nervous system depressant (CNS depressant) activities of DRUG.
+68,DRUG may increase the immunosuppressive activities of DRUG.
+69,DRUG may increase the myelosuppressive activities of DRUG.
+70,DRUG may increase the myopathic rhabdomyolysis activities of DRUG.
+71,DRUG may increase the neuroexcitatory activities of DRUG.
+72,DRUG may increase the neuromuscular blocking activities of DRUG.
+73,DRUG may increase the orthostatic hypotensive activities of DRUG.
+74,DRUG may increase the photosensitizing activities of DRUG.
+75,DRUG may increase the QTc-prolonging activities of DRUG.
+76,DRUG may increase the respiratory depressant activities of DRUG.
+77,DRUG may increase the sedative activities of DRUG.
+78,DRUG may increase the serotonergic activities of DRUG.
+79,DRUG may increase the stimulatory activities of DRUG.
+80,DRUG may increase the tachycardic activities of DRUG.
+81,DRUG may increase the thrombogenic activities of DRUG.
+82,DRUG may increase the ulcerogenic activities of DRUG.
+83,DRUG may increase the vasoconstricting activities of DRUG.
+84,DRUG may increase the vasodilatory activities of DRUG.
+85,DRUG may increase the vasopressor activities of DRUG.
