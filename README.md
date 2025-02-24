@@ -10,7 +10,7 @@ Codes, datasets and appendix for AAAI-2023 paper "Multi-relational Contrastive L
 ## Run code
 For how to use MRCGNN, we present an example based on the Deng's dataset.
 
-1.Learning drug structural features from drug molecular graphs, you need to change the path in 'drugfeature_fromMG.py' first. If you want use MRCGNN on your own dataset, please ensure the datas in 'trimnet' folds and the datas in 'codes for MRCGNN' folds are the same.)
+1. To learn drug structural features from drug molecular graphs, you need to change the path in 'drugfeature_fromMG.py' first. If you want to use MRCGNN on your own dataset, please ensure the data in the 'trimnet' fold and the data in the 'codes for MRCGNN' fold are the same.)
 
 ```
 python drugfeature_fromMG.py
@@ -21,5 +21,5 @@ python drugfeature_fromMG.py
 python 5timesrun.py
 ```
 
-3.You can see the final results of 5 runs in 'test.txt'
+3. You can see the final results of 5 runs in 'test.txt'
 
